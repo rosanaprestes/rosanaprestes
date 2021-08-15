@@ -1,4 +1,4 @@
-### Olá,eu sou Rosana Prestes 👋
+### Olá, eu sou Rosana Prestes 👋
 
 <!--
 **rosanaprestes/rosanaprestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
